@@ -1,0 +1,12 @@
+{
+  "name": "gql-training",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/kesompochy/gql-training.git",
+  "author": "kesompochy <kesompo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.1",
+    "graphql": "^16.6.0"
+  }
+}
